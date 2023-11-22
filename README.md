@@ -111,4 +111,3 @@ _Note: Replace `-` with file paths to work with files or use `-` for both input 
 This project is licensed under the [WTFPL License](http://www.wtfpl.net/).
 ```
 
-Please make sure to replace `https://github.com/vakarelov/lzstring.git` with the actual URL of your repository where the `lzstring` project is hosted
