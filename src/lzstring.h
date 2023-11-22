@@ -11,7 +11,7 @@
  *
  */
 
-#include <QString>
+#include <QtCore/QString>
 
 class LZString
 {
