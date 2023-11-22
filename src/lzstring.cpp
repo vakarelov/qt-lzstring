@@ -1,11 +1,11 @@
 #include "lzstring.h"
 
-#include <QBitArray>
-#include <QHash>
-#include <QString>
-#include <QStringBuilder>
-#include <QStringRef>
-#include <QVector>
+#include <QtCore/QBitArray>
+#include <QtCore/QHash>
+#include <QtCore/QString>
+#include <QtCore/QStringBuilder>
+#include <QtCore/QStringRef>
+#include <QtCore/QVector>
 
 static const QString keyStrBase64 = QLatin1String("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=");
 static const QString keyStrUriSafe = QLatin1String("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-$");
